@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JPaint" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="paint.Main" />
+    <module name="JPaint" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
